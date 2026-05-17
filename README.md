@@ -15,7 +15,7 @@ Biotecnóloga construyendo sistemas de Inteligencia Artificial **trazables** y *
 
 ## 🔭 About Me
 
-- 🔬 Trabajo en **Lãberit** — Oficina de Inteligencia Artificial. Especializada en algoritmos de Deep Learning e IA aplicados al soporte clínico y el impacto social.
+- 🔬 Trabajo en **Lãberit** dentro de la Oficina de Inteligencia Artificial (OIA). Especializada en algoritmos de Deep Learning e IA aplicados al soporte clínico y el impacto social.
 - 🎓 **Máster en Biotecnología Biomédica** (UPV) · **Grado en Biotecnología** (Universitat de València). Base sólida en biomedicina, bioinformática y biología molecular.
 - 🤝 Interés genuino en IA aplicada a impacto médico y social: diagnóstico médico (imagen), retrieval biomédico, y sistemas conversacionales de apoyo crítico (Atenpro).
 - ✨ Me motiva radicalmente construir **sistemas auditables**: PMIDs verificables, scores explicables, nula tolerancia a las alucinaciones LLM e IAs centradas en el humano.
